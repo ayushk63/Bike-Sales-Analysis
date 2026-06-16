@@ -10,6 +10,8 @@ Power BI Dashboard for Bike Sales Data that I cleaned using MySQL
 
 ✨ 4 slicers for filtering
 
+![Dashboard Image](BikeSalesDashboard.jpg)
+
 
 ☘️ Steps Followed :-
 
