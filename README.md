@@ -1,6 +1,7 @@
 ### Bike Sales Analysis
 Power BI Dashboard for Bike Sales Data that I cleaned using MySQL
 
+
 📊 Dashboard Features :-
  
 ✨ KPI's are displayed at the top
@@ -8,6 +9,7 @@ Power BI Dashboard for Bike Sales Data that I cleaned using MySQL
 ✨ 6 visualizations for showing trends in Bike Sales
 
 ✨ 4 slicers for filtering
+
 
 ☘️ Steps Followed :-
 
@@ -19,6 +21,7 @@ Power BI Dashboard for Bike Sales Data that I cleaned using MySQL
 
 ✨ Created Dashboard in Power BI
 
+
 🔍 Key Insights :-
 
 ⭐ United States has made most revenue ($135K) through bike sales.
@@ -28,6 +31,7 @@ Power BI Dashboard for Bike Sales Data that I cleaned using MySQL
 ⭐ Highest profit has been generated ($31,422) on 19 December, 2021.
 
 ⭐ Mostly adults (35 - 64 years of age) have purchased bikes.
+
 
 
 🛠️ Tools Used :-
